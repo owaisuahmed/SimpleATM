@@ -9,7 +9,7 @@ All functions are within the browser and changes are not saved.
 
 Usage: 
 1. Download/copy the files and folders to a local folder. 
-2. If using Node.js, open the command line point to the root folder of the target files, for example "cd path/to/ToDoList". 
+2. If using Node.js, open the command line point to the root folder of the target files, for example "cd path/to/SimpleATM". 
 3. Then run "npm install" to install all dependencies, and then run "http-server ./public" to start the server. 
 4. Then view the page by navigating to the following URL in a web browser: "http://127.0.0.1:8080/index.html" (default IP address and port number is shown). 
 
